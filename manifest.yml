@@ -1,0 +1,4 @@
+applications:
+- name: alexa
+  mem: 128M
+  disk: 256M
