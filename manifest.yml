@@ -1,4 +1,4 @@
 applications:
-- name: drors-alexa
+- name: alexa
   mem: 512M
   disk: 256M
