@@ -1,3 +1,8 @@
 requests
 flask
 flask-ask
+GitHub-Flask
+Flask-SQLAlchemy
+python-novaclient
+python-keystoneclient
+python-cinderclient
